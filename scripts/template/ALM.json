@@ -40,7 +40,7 @@
     },
     {
         "src": "../images/products/G_D-5000-min.jpg",
-        "title": "ALM/ B-3000",
+        "title": "ALM/ D-5000",
         "fuel": "diesel",
         "launchSystem": "hand",
         "output": "5.5",
@@ -50,7 +50,7 @@
     },
     {
         "src": "../images/products/G_D-7500.jpg",
-        "title": "ALM/ B-3000",
+        "title": "ALM/ D-7500TE",
         "fuel": "diesel",
         "launchSystem": "hand",
         "output": "6",
@@ -60,7 +60,7 @@
     },
     {
         "src": "../images/products/G_DS-5000E-min.jpg",
-        "title": "ALM/ B-3000",
+        "title": "ALM/ DS-13500ME",
         "fuel": "diesel",
         "launchSystem": "hand",
         "output": "13,5",

@@ -264,5 +264,233 @@
             "withCanopy": "2950",
             "openSkid": "2350"
         }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 330",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "330",
+        "capacity": {
+            "withCanopy": "580",
+            "openSkid": "490"
+        },
+        "size": {
+            "withCanopy": "3350x2780x1400",
+            "openSkid": "3000x1800x1300"
+        },
+        "weight": {
+            "withCanopy": "3240",
+            "openSkid": "2780"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 350",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "350",
+        "capacity": {
+            "withCanopy": "580",
+            "openSkid": "490"
+        },
+        "size": {
+            "withCanopy": "3350x2780x1400",
+            "openSkid": "3000x1800x1300"
+        },
+        "weight": {
+            "withCanopy": "3240",
+            "openSkid": "2780"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 410",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "410",
+        "capacity": {
+            "withCanopy": "580",
+            "openSkid": "490"
+        },
+        "size": {
+            "withCanopy": "3350x2780x1400",
+            "openSkid": "3000x1800x1300"
+        },
+        "weight": {
+            "withCanopy": "3240",
+            "openSkid": "2780"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 440",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "440",
+        "capacity": {
+            "withCanopy": "800",
+            "openSkid": "700"
+        },
+        "size": {
+            "withCanopy": "3350x2980x1600",
+            "openSkid": "3150x2050x1450"
+        },
+        "weight": {
+            "withCanopy": "5050",
+            "openSkid": "4200"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 485",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "485",
+        "capacity": {
+            "withCanopy": "800",
+            "openSkid": "700"
+        },
+        "size": {
+            "withCanopy": "3350x2980x1600",
+            "openSkid": "3150x2050x1450"
+        },
+        "weight": {
+            "withCanopy": "5050",
+            "openSkid": "4200"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 510",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "510",
+        "capacity": {
+            "withCanopy": "800",
+            "openSkid": "700"
+        },
+        "size": {
+            "withCanopy": "3350x2980x1600",
+            "openSkid": "3150x2050x1450"
+        },
+        "weight": {
+            "withCanopy": "5250",
+            "openSkid": "4400"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 590",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "590",
+        "capacity": {
+            "withCanopy": "800",
+            "openSkid": "700"
+        },
+        "size": {
+            "withCanopy": "3350x2980x1600",
+            "openSkid": "3150x2050x1450"
+        },
+        "weight": {
+            "withCanopy": "5250",
+            "openSkid": "4400"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 630",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "630",
+        "capacity": {
+            "withCanopy": "870",
+            "openSkid": "610"
+        },
+        "size": {
+            "withCanopy": "3500x2980x1800",
+            "openSkid": "3100x1980x1450"
+        },
+        "weight": {
+            "withCanopy": "5750",
+            "openSkid": "4850"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 750",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "750",
+        "capacity": {
+            "withCanopy": "900",
+            "openSkid": "700"
+        },
+        "size": {
+            "withCanopy": "3900x3030x1800",
+            "openSkid": "3500x2260x1450"
+        },
+        "weight": {
+            "withCanopy": "5900",
+            "openSkid": "5140"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 830",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "830",
+        "capacity": {
+            "withCanopy": "900",
+            "openSkid": "700"
+        },
+        "size": {
+            "withCanopy": "3900x3030x1800",
+            "openSkid": "3700x2260x1450"
+        },
+        "weight": {
+            "withCanopy": "6150",
+            "openSkid": "5350"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 920",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "920",
+        "capacity": {
+            "withCanopy": "1250",
+            "openSkid": "1150"
+        },
+        "size": {
+            "withCanopy": "4000x3030x2000",
+            "openSkid": "3800x2100x1650"
+        },
+        "weight": {
+            "withCanopy": "6750",
+            "openSkid": "5800"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMDO-330.jpg",
+        "title": "ALMDO 1020",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "1020",
+        "capacity": {
+            "withCanopy": "1250",
+            "openSkid": "1150"
+        },
+        "size": {
+            "withCanopy": "4000x3030x2000",
+            "openSkid": "3700x2100x1650"
+        },
+        "weight": {
+            "withCanopy": "6750",
+            "openSkid": "5800"
+        }
     }
 ]
