@@ -1,0 +1,268 @@
+[   
+    {
+        "src": "../images/expanded-list/ALMAR-28.jpg",
+        "title": "ALMAR 22",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "22",
+        "capacity": {
+            "withCanopy": "65",
+            "openSkid": "100"
+        },
+        "size": {
+            "withCanopy": "1750х1420х950",
+            "openSkid": "1450х1120х595"
+        },
+        "weight": {
+            "withCanopy": "770",
+            "openSkid": "595"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-28.jpg",
+        "title": "ALMAR 28",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "28",
+        "capacity": {
+            "withCanopy": "85",
+            "openSkid": "120"
+        },
+        "size": {
+            "withCanopy": "2000x1570x970",
+            "openSkid": "1600x1120x900"
+        },
+        "weight": {
+            "withCanopy": "970",
+            "openSkid": "745"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-28.jpg",
+        "title": "ALMAR 33",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "33",
+        "capacity": {
+            "withCanopy": "105",
+            "openSkid": "120"
+        },
+        "size": {
+            "withCanopy": "2100x1570x1000",
+            "openSkid": "1600x1220x900"
+        },
+        "weight": {
+            "withCanopy": "1125",
+            "openSkid": "825"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-40.jpg",
+        "title": "ALMAR 40",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "40",
+        "capacity": {
+            "withCanopy": "105",
+            "openSkid": "120"
+        },
+        "size": {
+            "withCanopy": "2100x1570x1250",
+            "openSkid": "1600x1220x900"
+        },
+        "weight": {
+            "withCanopy": "1125",
+            "openSkid": "825"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-40.jpg",
+        "title": "ALMAR 45",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "45",
+        "capacity": {
+            "withCanopy": "105",
+            "openSkid": "120"
+        },
+        "size": {
+            "withCanopy": "2100x1570x1000",
+            "openSkid": "1600x1220x900"
+        },
+        "weight": {
+            "withCanopy": "1125",
+            "openSkid": "825"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-40.jpg",
+        "title": "ALMAR 50",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "50",
+        "capacity": {
+            "withCanopy": "105",
+            "openSkid": "150"
+        },
+        "size": {
+            "withCanopy": "2100x1570x1000",
+            "openSkid": "1850x1220x900"
+        },
+        "weight": {
+            "withCanopy": "1125",
+            "openSkid": "825"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 62",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "62",
+        "capacity": {
+            "withCanopy": "140",
+            "openSkid": "150"
+        },
+        "size": {
+            "withCanopy": "2350x1730x1190",
+            "openSkid": "1850x1220x900"
+        },
+        "weight": {
+            "withCanopy": "1190",
+            "openSkid": "1004"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 75",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "75",
+        "capacity": {
+            "withCanopy": "140",
+            "openSkid": "150"
+        },
+        "size": {
+            "withCanopy": "2350x1730x1275",
+            "openSkid": "1850x1220x900"
+        },
+        "weight": {
+            "withCanopy": "1275",
+            "openSkid": "1025"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 82",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "82",
+        "capacity": {
+            "withCanopy": "140",
+            "openSkid": "150"
+        },
+        "size": {
+            "withCanopy": "2350x1730x1275",
+            "openSkid": "1850x1220x900"
+        },
+        "weight": {
+            "withCanopy": "1275",
+            "openSkid": "1025"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 110",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "110",
+        "capacity": {
+            "withCanopy": "140",
+            "openSkid": "150"
+        },
+        "size": {
+            "withCanopy": "2350x1730x1390",
+            "openSkid": "1850x1370x900"
+        },
+        "weight": {
+            "withCanopy": "1380",
+            "openSkid": "1050"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 125",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "125",
+        "capacity": {
+            "withCanopy": "160",
+            "openSkid": "170"
+        },
+        "size": {
+            "withCanopy": "2350x1730x1460",
+            "openSkid": "2100x1550x950"
+        },
+        "weight": {
+            "withCanopy": "1460",
+            "openSkid": "1200"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 220",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "220",
+        "capacity": {
+            "withCanopy": "270",
+            "openSkid": "215"
+        },
+        "size": {
+            "withCanopy": "3100x1930x1100",
+            "openSkid": "2600x1520x900"
+        },
+        "weight": {
+            "withCanopy": "2280",
+            "openSkid": "1930"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 275",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "275",
+        "capacity": {
+            "withCanopy": "270",
+            "openSkid": "215"
+        },
+        "size": {
+            "withCanopy": "3100x1930x1100",
+            "openSkid": "2600x1520x900"
+        },
+        "weight": {
+            "withCanopy": "2900",
+            "openSkid": "2200"
+        }
+    },
+    {
+        "src": "../images/expanded-list/ALMAR-82.jpg",
+        "title": "ALMAR 300",
+        "fuel": "diesel",
+        "launchSystem": "auto",
+        "output": "300",
+        "capacity": {
+            "withCanopy": "380",
+            "openSkid": "300"
+        },
+        "size": {
+            "withCanopy": "3400x2110x1250",
+            "openSkid": "2850x1880x1050"
+        },
+        "weight": {
+            "withCanopy": "2950",
+            "openSkid": "2350"
+        }
+    }
+]

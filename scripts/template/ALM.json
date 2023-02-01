@@ -1,0 +1,71 @@
+[
+    {
+        "src": "../images/products/G_B-3000.webp",
+        "title": "ALM/ B-3000",
+        "fuel": "benz",
+        "launchSystem": "hand",
+        "output": "3",
+        "capacity": "15",
+        "size": "590х433х483",
+        "weight": "43,5"
+    },{
+        "src": "../images/products/G_B-7500E-min.jpg",
+        "title": "ALM/ B-7500E",
+        "fuel": "benz",
+        "launchSystem": "auto",
+        "output": "8",
+        "capacity": "26",
+        "size": "685х512х550",
+        "weight": "96"
+    },
+    {
+        "src": "../images/products/G_B11000E-min.jpg",
+        "title": "ALM/ B-11000",
+        "fuel": "benz",
+        "launchSystem": "auto",
+        "output": "11",
+        "capacity": "15",
+        "size": "930х555х58",
+        "weight": "139"
+    },
+    {
+        "src": "../images/products/G_B11000ES-min.png",
+        "title": "ALM/ B-1100E",
+        "fuel": "benz",
+        "launchSystem": "auto",
+        "output": "11",
+        "capacity": "25",
+        "size": "990х635х860",
+        "weight": "210"
+    },
+    {
+        "src": "../images/products/G_D-5000-min.jpg",
+        "title": "ALM/ B-3000",
+        "fuel": "diesel",
+        "launchSystem": "hand",
+        "output": "5.5",
+        "capacity": "12,5",
+        "size": "680х455х545",
+        "weight": "88"
+    },
+    {
+        "src": "../images/products/G_D-7500.jpg",
+        "title": "ALM/ B-3000",
+        "fuel": "diesel",
+        "launchSystem": "hand",
+        "output": "6",
+        "capacity": "15",
+        "size": "750х515х635",
+        "weight": "130"
+    },
+    {
+        "src": "../images/products/G_DS-5000E-min.jpg",
+        "title": "ALM/ B-3000",
+        "fuel": "diesel",
+        "launchSystem": "hand",
+        "output": "13,5",
+        "capacity": "60",
+        "size": "900х568х695",
+        "weight": "295"
+    }
+]
