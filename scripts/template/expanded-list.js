@@ -1,5 +1,5 @@
-import ALMAR from './ALMAR.json' assert {type: 'json'};
-import ALM from './ALM.json' assert {type: 'json'};
+import ALMAR from './ALMAR.json' with {type: 'json'};
+import ALM from './ALM.json' with {type: 'json'};
 
 const createSmallGenTemplate = (
     src,

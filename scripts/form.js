@@ -87,7 +87,6 @@ function checkDataInput() {
     let modalTextField = formInputText;
 
     let textValue = textInputChecker(modalTextField)
-    console.log(textValue);
     trueOrFalse? FormSend(
         JSON.stringify({
             name: formInputs[0].value,
