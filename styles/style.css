@@ -728,11 +728,12 @@ body {
   margin: 0 auto;
   background-color: #ffffff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.171);
-  text-align: center;
+  text-align: start;
 }
 
 .about-block__title {
   margin: 20px 0;
+  text-align: center;
   font: 800 22px/34px "Work Sans", sans-serif;
   text-transform: uppercase;
 }
@@ -1298,7 +1299,7 @@ body {
   right: 20px;
   top: 20px;
   z-index: 1;
-  -webkit-appearance: none;
+  appearance: none;
   width: 40px;
   z-index: 1002;
 }
